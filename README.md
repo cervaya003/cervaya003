@@ -91,40 +91,6 @@ Flutter · Node.js · Laravel · Angular · Google Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-
-## 💼 Experience
-
-<details open>
-<summary><b>🔵 Líder de Proyecto · Full Stack Developer — WOAW Automotive</b> &nbsp;<code>Abr 2025 – Feb 2026</code></summary>
-<br/>
-
-**[wo-aw.com](https://wo-aw.com)** — Plataforma Integral Automotriz
-
-- Desarrollo de plataforma **web y móvil** con Ionic, Angular, Node.js y MongoDB
-- Backend modular con **autenticación JWT** desplegado en **Google Cloud**
-- Módulos de compra, venta, arrendamiento, seguros y gestión vehicular
-- Optimización **UI/UX** y soporte **PWA**
-- Publicación en **Google Play Store** · preparación para Apple App Store
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🟢 Full Stack Developer — Universidad Tecnológica de Querétaro</b> &nbsp;<code>Ago 2023 – Mar 2025</code></summary>
-<br/>
-
-**Departamento de Recursos Humanos** — [prestacionesrh.uteq.edu.mx](https://prestacionesrh.uteq.edu.mx)
-
-- Sistema interno con **Laravel PHP** y MySQL
-- Integración con **Web Services del SAT** para validación de facturación electrónica
-- **CI/CD pipelines** con GitHub Actions para testing y despliegues automáticos
-- Administración básica de servidores **Linux Ubuntu**
-
-</details>
-
----
-
 ## 🗂️ Projects
 
 | Project | Stack | Description |
