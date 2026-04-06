@@ -91,15 +91,6 @@ Flutter · Node.js · Laravel · Angular · Google Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-## Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **[JOLI](https://joli.com.mx)** | React · Flutter · Node.js · PostgreSQL · GCP | Plataforma financiera con arquitectura serverless en Google Cloud Run |
-| **WOAW Automotive** | Angular · Ionic · Node.js · MongoDB | Plataforma automotriz con app móvil en Play Store |
-| **UTEQ RH System** | Laravel · MySQL · SAT APIs | Sistema de prestaciones con integración fiscal |
-
----
 
 ## GitHub Stats
 
