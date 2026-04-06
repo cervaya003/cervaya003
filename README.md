@@ -29,7 +29,7 @@ Flutter · Node.js · Laravel · Angular · Google Cloud
 
 ---
 
-## 🚀 About Me
+## About Me
 
 > Desarrollador de software con enfoque en **arquitectura moderna y sistemas escalables**, especializado en aplicaciones web y móviles. Experiencia en desarrollo end-to-end, diseño de APIs, implementación de pipelines CI/CD y despliegue en Google Cloud.
 
@@ -56,11 +56,11 @@ Flutter · Node.js · Laravel · Angular · Google Cloud
 </tr>
 </table>
 
-📍 **Querétaro, México** &nbsp;·&nbsp; 🎓 Ing. Desarrollo y Gestión de Software, UTEQ
+ **Querétaro, México** &nbsp;·&nbsp; 🎓 Ing. Desarrollo y Gestión de Software, UTEQ
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -91,7 +91,7 @@ Flutter · Node.js · Laravel · Angular · Google Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-## 🗂️ Projects
+## Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -101,7 +101,7 @@ Flutter · Node.js · Laravel · Angular · Google Cloud
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -129,7 +129,7 @@ Flutter · Node.js · Laravel · Angular · Google Cloud
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
